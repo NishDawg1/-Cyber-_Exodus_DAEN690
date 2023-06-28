@@ -1,0 +1,54 @@
+Crime,Category,V1,ASHTON,BARNESVILLE,BEALLSVILLE,BELTSVILLE,BETHESDA,BOYDS,BRINKLOW,BROOKEVILLE,BURTONSVILLE,CABIN JOHN,CHEVY CHASE,CLARKSBURG,DAMASCUS,DERWOOD,DICKERSON,FRIENDSHIP HEIGHTS,GAITHERSBURG,GARRETT PARK,GERMANTOWN,GLEN ECHO,KENSINGTON,LAUREL,MONTGOMERY VILLAGE,MOUNT AIRY,MT AIRY,OLNEY,POOLESVILLE,POTOMAC,RIVERDALE,ROCKVIILE,ROCKVILLE,SANDY SPRING,SILVER SPRING,SPENCERVILLE,TAKOMA PARK,WASHINGTON,WASHINGTON GROVE,WHEATON
+Aggravated Assault      ,Crimes Against Person,1,0,0,0,0,7,0,0,0,6,0,1,0,3,1,1,0,18,0,10,0,3,0,6,0,0,1,0,3,0,0,64,0,92,0,9,0,0,0
+All other Larceny  ,Crimes against Property,3,2,0,1,0,122,10,1,5,8,3,36,14,8,18,0,0,136,0,74,1,22,1,26,0,0,33,2,30,0,0,244,2,339,2,16,0,0,0
+All Other Offenses   ,Crimes against Property,5,5,0,1,1,269,15,1,22,40,5,72,28,22,68,8,0,458,1,158,0,78,2,50,0,1,51,15,90,1,1,805,7,1019,0,108,2,1,0
+Arson     ,Crimes against Property,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0
+Assisting or Promoting Prostitution,Crimes against Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0
+Bad Checks/Betting,Crimes against Society,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0
+Burglary/Breaking and Entering  ,Crimes against Property,5,0,0,0,0,49,2,2,3,14,0,12,7,10,16,0,0,51,1,35,0,13,0,11,0,0,6,5,17,0,0,121,2,213,0,20,0,0,0
+Counterfeiting/Forgery,Crimes against Property,0,0,0,0,0,45,1,1,0,1,1,23,0,0,7,0,0,20,0,6,0,6,0,3,0,0,4,0,11,0,0,30,2,58,0,1,0,0,0
+Credit Card/Automatic Teller Machine Fraud  ,Crimes against Property,1,2,0,0,0,51,4,0,4,5,1,20,6,1,5,0,0,50,0,38,0,10,0,8,0,0,12,1,15,0,0,85,0,124,1,1,0,0,0
+Curfew/Loitering/Vagrancy Violations  ,Crimes against Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Destruction/Damage/Vandalism of Property,Crimes against Property,7,1,0,0,1,125,10,0,5,17,2,31,17,22,18,4,0,232,1,162,0,27,0,64,3,0,31,9,40,0,0,289,1,650,2,73,0,0,0
+Disorderly Conduct  ,Crimes against Society,1,0,0,0,0,5,0,0,1,1,0,1,1,0,0,0,0,4,0,8,0,1,0,0,0,0,0,0,1,0,0,32,0,35,0,7,0,0,0
+Driving Under the Influence   ,Crimes against Society,1,0,0,0,0,14,0,0,2,1,0,3,2,3,7,0,0,57,0,14,0,4,0,5,0,0,6,0,4,0,0,66,0,162,0,7,0,0,1
+Drug Equipment Violations  ,Crimes against Society,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,2,0,4,0,1,0,0,0,0,1,0,0,0,0,8,0,11,0,0,0,0,0
+Drug/Narcotic Violations  ,Crimes against Society,0,0,0,0,0,7,0,0,0,0,0,1,3,0,3,0,0,35,0,17,0,4,0,7,0,0,3,0,0,0,0,84,0,83,0,1,0,0,0
+Drunkenness    ,Crimes against Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Embezzlement ,Crimes against Property,0,0,0,0,0,6,0,0,0,1,0,1,1,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,4,0,0,7,0,6,0,3,0,0,0
+Extortion/Blackmail  ,Crimes against Property,1,0,0,0,0,7,0,0,0,0,0,1,0,0,0,0,0,2,0,3,0,2,0,0,0,0,0,0,0,0,0,6,0,6,0,2,0,0,0
+False Pretenses/Swindle/Confidence Game   ,Crimes against Property,0,1,0,1,0,21,2,0,2,4,0,6,13,2,5,0,0,56,0,30,0,14,0,8,0,0,10,0,15,0,0,79,1,110,0,15,0,0,0
+"Family Offenses, NonViolent   ",Crimes Against Person,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,4,0,4,0,0,0,1,0,0,0,0,0,0,0,8,0,15,0,2,0,0,0
+Fondling    ,Crimes Against Person,1,0,0,0,0,1,1,0,0,2,0,0,1,1,2,0,0,9,0,5,0,1,0,1,0,0,1,1,0,0,0,23,1,19,0,2,0,0,0
+Forcible Fondling     ,Crimes Against Person,0,1,0,0,0,3,0,0,0,0,0,1,0,0,2,0,0,8,0,2,0,0,0,0,0,0,0,0,1,0,0,4,0,13,0,2,0,0,0
+Forcible Rape   ,Crimes Against Person,0,0,0,0,0,3,1,0,0,1,1,2,1,0,3,0,0,14,0,9,0,0,0,4,0,0,3,0,1,0,0,21,1,36,0,2,0,0,0
+Forcible Sodomy     ,Crimes Against Person,0,0,0,0,0,3,0,0,0,0,1,1,1,0,1,0,0,6,0,2,0,0,0,0,0,0,3,0,0,0,0,12,0,17,0,0,0,0,0
+Gambling Equipment Violations,Crimes against Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+"Human Trafficking, Commercial Sex Acts   ",Crimes Against Person,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"Human Trafficking, Involuntary Servitude ",Crimes Against Person,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Identity Theft    ,Crimes against Property,0,2,0,0,0,47,4,0,9,4,1,19,13,1,10,1,0,75,0,30,0,11,0,17,0,1,19,2,21,0,0,96,1,132,0,20,0,0,0
+Impersonation  ,Crimes against Property,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,1,0,0,5,0,2,0,1,0,0,0
+Intimidation  ,Crimes Against Person,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,4,0,1,0,0,0
+Kidnapping/Abduction    ,Crimes Against Person,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+Liquor Law Violations  ,Crimes against Society,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,17,0,9,0,0,0,0,0
+Motor Vehicle Theft   ,Crimes against Property,3,3,0,0,0,92,2,0,3,22,1,29,7,16,16,0,0,124,1,67,0,24,0,29,0,0,15,2,37,0,0,135,0,385,0,27,0,0,0
+Murder and Nonnegligent Manslaughter     ,Crimes Against Person,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+Not Mapped  ,Crimes Against Person,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,1,0,0,0
+Peeping Tom    ,Crimes Against Person,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Pocket/picking  ,Crimes against Person,0,0,0,0,0,5,0,0,0,0,0,6,0,0,2,0,0,2,0,2,0,0,0,0,0,0,1,0,0,0,0,6,0,8,0,0,0,0,0
+Pornography/Obscene Material    ,Crimes against Society,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Prostitution  ,Crimes against Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,0,0,0,0,0
+Purse-snatching   ,Crimes against Property,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,2,0,7,0,4,0,0,0
+Robbery    ,Crimes against Property,3,0,0,0,0,6,0,0,0,3,0,1,0,0,0,0,0,13,0,7,0,4,0,3,0,0,1,0,2,0,0,24,0,71,0,17,0,0,0
+Sexual Assault With An Object     ,Crimes Against Person,0,0,0,0,0,3,0,0,0,1,0,2,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,4,1,13,0,0,0,0,0
+Shoplifting     ,Crimes against Property,14,1,0,0,0,78,9,0,0,5,0,38,3,3,1,0,0,141,0,81,0,22,0,3,0,0,13,0,3,0,0,194,0,248,0,35,0,0,0
+Simple Assault ,Crimes Against Person,3,0,0,1,0,50,4,0,1,8,0,4,11,7,2,0,0,119,0,63,0,16,0,7,0,0,22,4,12,0,0,284,1,352,1,30,0,0,0
+Statuory Rape ,Crimes Against Person,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stolen Property Offenses   ,Crimes against Property,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,4,0,2,0,0,0
+Theft from Building    ,Crimes against Property,4,1,1,0,0,93,7,0,3,6,1,34,6,5,13,0,0,123,0,67,0,6,0,18,0,0,14,1,18,0,0,198,0,296,0,31,0,0,0
+Theft From Motor Vehicle     ,Crimes against Property,23,7,0,0,0,391,10,0,8,33,3,130,27,44,29,1,1,339,0,379,3,106,0,101,0,0,51,3,115,0,0,410,3,862,0,110,0,0,0
+Theft of Motor Vehicle Parts or Accessories    ,Crimes against Property,9,0,0,0,0,98,2,0,3,28,0,60,9,5,15,1,0,194,0,85,0,41,0,39,0,0,17,0,10,0,0,194,4,596,1,61,0,0,0
+Trespass of Real Property     ,Crimes against Property,2,0,0,0,0,2,1,0,0,2,0,1,0,1,1,0,0,8,0,10,0,0,0,0,0,0,1,0,0,0,0,18,0,32,0,3,0,0,0
+Weapon Law Violations       ,Crimes against Society,1,0,0,0,0,4,1,0,1,2,0,0,1,0,0,0,0,7,0,6,0,0,0,1,0,0,0,0,1,0,0,18,0,44,0,3,0,0,0
+Welfare Fraud   ,Crimes against Property,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Wire Fraud                ,Crimes against Property,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,7,0,2,0,0,0
