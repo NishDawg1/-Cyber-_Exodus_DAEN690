@@ -32,6 +32,7 @@ def add_remote_hybrid(data):
     remote_str = 'Remote'
     hybrid_str = 'Hybrid'
 
+    # Add 'Remote' and 'Hybrid' columns if not already present in the data set
     headers = data[0]
     if not remote_str in headers:
         headers.append(remote_str)
@@ -49,12 +50,14 @@ def add_remote_hybrid(data):
             # Information on whether role is remote/hybrid is in title string
             title = row[title_column_index]
             
+            # check if title contains 'Remote' word
             if remote_str.lower() in title.lower():
         
                row.insert(remote_column_index, 'Yes')
             else:
                row.insert(remote_column_index, 'No')
 
+            # Check if title contains 'Hybrid' word
             if hybrid_str.lower() in title.lower():
                row.insert(hybrid_column_index, 'Yes')
             else:
