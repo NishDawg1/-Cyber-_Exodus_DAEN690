@@ -10,3 +10,6 @@ A major problem facing the cybersecurity industry is that many cybersecurity per
 •	Find and analyze proxy data for quality-of-life factors to derive impacts on the cyber security workforce. 
 •	Use data to find insights on factors influencing cyber security personnel to exit the field. 
 •	Recognizing that detailed data on employment factors may not be available, find proxy data that supports data analysis of factors. 
+
+# Analysis Algorithms
+After finalize the data with factors based on location, housing type, crime, commute, and work enviroment. generated binary stress variables to derive potential stress candidates from job listings (scrapped) data from Indeed(reg) and Glassdoor (Reg).  Used logistic regression, and classification model SVM (linear, rbf, predict) and Kfolds predictive model
